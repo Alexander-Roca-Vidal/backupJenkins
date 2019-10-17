@@ -1,0 +1,7 @@
+Started by user [8mha:////4PZSZl32/ch9iP0LKZgBddzO/vSxYrKEZZYKOc4X33M0AAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzpEgY+/dLi1CL9xJzUiqL85EQA91iZ8MMAAAA=[0mAlexander Lennin Roca Vidal
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/Ejercicio01Devops
+[Ejercicio01Devops] $ /bin/sh -xe /tmp/jenkins8012263729371570651.sh
++ git clone https://github.com/Alexander-Roca-Vidal/Devops-Project01.git
+Cloning into 'Devops-Project01'...
+Finished: SUCCESS
